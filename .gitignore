@@ -1,7 +1,5 @@
 .DS_Store
 data/
 data_with_holes.csv
-Historic\ RC\ Data\ v*.xlsx
-Historic\ RC\ District\ Data\ v*.xlsx
+Historic\ RC\ *.xlsx
 Historic\ Data.xlsx
-Historic\ RC\ District\ Data.xlsx
