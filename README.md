@@ -45,7 +45,7 @@ Warning: These instructions may not apply if ISBE changes their data format for 
 
 ## 2. Updating the Crosswalk
 
-Note: The Advance Illinois file: `Historic Crosswalk.xlsx` should be kept in sync with `Local Historic Crosswalk.xlsx`. If you are updating `Historic Crosswalk.xlsx`, "the crosswalk file" will below refer to `Historic Crosswalk.xlsx`, and you should complete the last step. Otherwise, "the crosswalk file" will simply refer to `Local Historic Crosswalk.xlsx`.
+Note: The Advance Illinois sharepoint file: `Historic Crosswalk.xlsx` should be kept in sync with `Local Historic Crosswalk.xlsx`. If you are updating `Historic Crosswalk.xlsx`, "the crosswalk file" will below refer to `Historic Crosswalk.xlsx`, and you should complete the last step. Otherwise, "the crosswalk file" will simply refer to `Local Historic Crosswalk.xlsx`.
 
 1. Open the Crosswalk file to the `Report Card Metadata` sheet. Add a new row at the bottom for the new year of data.
 
